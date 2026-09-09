@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.km.loja",
+        "sha256_cert_fingerprints": ["F5:AE:19:B7:78:3B:E7:EC:D7:06:A5:75:59:A6:00:B3:84:C9:FD:EC:5F:AF:E9:81:38:6D:A6:14:D5:12:53:EE"]
+      }
+    }]
